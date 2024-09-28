@@ -29,11 +29,11 @@ To use the application, navigate to [URL or provide usage instructions, e.g., "h
 Team Members
 The following team members contributed to this project:
 Name       	Roll No
-Bhargavi    	7
-Rithu	        36
-Mamatha     	20
-Chandana	    15
-Keerthi	      11
+1. Bhargavi    	7
+2. Rithu	         36
+3. Mamatha     	20
+4. Chandana	      15
+5. Keerthi	      11
 Contributing
 We welcome contributions! Please follow these steps:
 
@@ -50,6 +50,6 @@ Acknowledgements
 [Any relevant acknowledgments or credits]
 vbnet
 
-Feel free to customize the sections according to your project specifics! If you need any more changes or additional sections, just let me know!
+
 
 
